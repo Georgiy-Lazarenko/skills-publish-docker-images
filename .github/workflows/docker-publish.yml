@@ -26,4 +26,3 @@ jobs:
         run: |
           docker build . --tag ghcr.io/georgiy-lazarenko/skills-publish-docker-images/stackoverflown:main
           docker push ghcr.io/georgiy-lazarenko/skills-publish-docker-images/stackoverflown:main
-          
